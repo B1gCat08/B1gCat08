@@ -85,3 +85,13 @@
 **— Dazai Osamu**
 
 </div>
+
+<div align="center">
+
+<img src="images/dazai-dance.gif"
+     width="150"
+     alt="Dazai dancing">
+
+*♪ Dazai is dancing... ♪*
+
+</div>
