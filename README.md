@@ -47,7 +47,7 @@
 ### 𝑴𝒀 𝑮𝑨𝑳𝑳𝑬𝑹𝒀
 
 <img src="1794545575709.jpg" width="48%" />
-<img src="" width="48%" />
+<img src="bf62d44e625f409456ad88723339b169.jpg" width="48%" />
 
 <img src="12d0e7a26793beff1ead925084306975.jpg" width="48%" />
 <img src="983d7cab6679b7f4a3e53e363b62c89f.webp.jpg" width="48%" />
