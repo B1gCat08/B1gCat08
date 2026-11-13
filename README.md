@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="images/dazai-banner.jpg" width="100%" />
+<img src="file_000000005b848209bb4836d275840e40.png" width="100%" />
 
 # 𝑫𝑨𝒁𝑨𝑰 𝑶𝑺𝑨𝑴𝑼
 
