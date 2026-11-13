@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="images/dazai-dance.gif"
+<img src="007080c7f5082eebfd39b4e0e57eac6c.gif"
      width="150"
      alt="Dazai dancing">
 
