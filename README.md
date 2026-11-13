@@ -11,7 +11,7 @@
 
 ### 𝑨𝑩𝑶𝑼𝑻 𝑴𝑬
 
-<img src="images/dazai-1.jpg" width="230" />
+<img src="1794545323195.jpg" width="230" />
 
 **Name:** Dazai Osamu  
 **Japanese:** 太宰 治  
